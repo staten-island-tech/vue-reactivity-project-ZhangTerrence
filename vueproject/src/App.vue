@@ -138,7 +138,6 @@ export default {
   justify-content: space-evenly;
 }
 #burgerdiv {
-  position: absolute;
   width: 80vw;
   align-items: center;
   justify-content: center;
